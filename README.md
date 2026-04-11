@@ -1,4 +1,4 @@
 # cs2-offsets
 cs2 offsets
 
-updated: 03.04.2026
+updated: 11.04.2026
